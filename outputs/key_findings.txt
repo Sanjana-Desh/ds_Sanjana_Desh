@@ -1,0 +1,24 @@
+=== TRADER BEHAVIOR & MARKET SENTIMENT ANALYSIS ===
+
+Analysis Period: 2023-03-28 to 2025-06-15
+
+Total Trades: 211224
+Unique Traders: 32
+
+KEY FINDINGS:
+1. Traders achieve 3.6x higher average profits ($89 vs $25) during Greed sentiment compared to Extreme Greed, indicating moderate optimism creates optimal trading conditions.
+2. 72.7% of trading activity occurs during Fear markets, showing strong contrarian behavior where traders buy during market panic.
+3. Trade size increases during emotional extremes (~$5,600 in Extreme Greed/Fear vs ~$3,200 in regular Greed).
+4. Cumulative profit reached ~$10.3M, with consistent upward trajectory and minimal drawdowns.
+5. Trading volume spikes dramatically in early 2025 (134K trades), while most days remain under 10K trades.
+6. Market sentiment leads profitability; profits accelerate during extreme Greed.
+7. Alt-coins (@107, HYPE, SOL) outperformed BTC in absolute profits (@107: $2.8M, HYPE: $1.95M, SOL: $1.65M, BTC: $860K).
+8. Individual trader performance varies dramatically by sentiment (e.g., 22x profit difference for top traders between best/worst sentiment conditions).
+9. High-volume traders prefer Fear periods, but most profitable trades occur during Greed.
+10. Buy/Sell trades are nearly balanced (48.6% BUY vs 51.4% SELL).
+11. Most traders maintain 40-45% win rates; profitability comes from position sizing and risk management rather than win rate.
+12. Profit distribution is concentrated among top traders; top trader net profit ~$2M.
+13. Majority of traders are slightly profitable or break-even; few major winners or losers.
+14. High trading frequency incurs substantial fees (~$80K for top fee payer), impacting net profitability.
+15. Win rates are highest during Greed (44%) and Extreme Greed (49%) periods, lowest during Neutral (31%), suggesting traders make better decisions during clear market trends.
+16. Visualization improvements needed: shorten wallet addresses, rotate/truncate X-axis labels.
